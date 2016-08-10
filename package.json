@@ -1,0 +1,30 @@
+{
+  "name": "sim900js",
+  "version": "0.0.3",
+  "description": "A library for interacting with the SIM900 GSM/GPRS chipset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensamo/sim900js.git"
+  },
+  "keywords": [
+    "sim900",
+    "gprs",
+    "gsm",
+    "cellular",
+    "simcom"
+  ],
+  "author": "Mike Reich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensamo/sim900js/issues"
+  },
+  "homepage": "https://github.com/sensamo/sim900js#readme",
+  "dependencies": {
+    "mraa": "^0.8.0",
+    "serialport": "^1.7.4"
+  }
+}
